@@ -11,3 +11,5 @@
   * [\[Lv. 1\] 최소직사각형](https://github.com/cykim43/Algorhythm/issues/3)
 * 정렬
   * [\[Lv. 1\] K번째수](https://github.com/cykim43/Algorhythm/issues/4)
+* 해시
+  * [\[Lv. 1\] 폰켓몬](https://github.com/cykim43/Algorhythm/issues/5)
