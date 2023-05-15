@@ -9,6 +9,7 @@
   * [\[Lv. 2\] 주식가격](https://github.com/cykim43/Algorhythm/issues/1)
 * 완전탐색
   * [\[Lv. 1\] 최소직사각형](https://github.com/cykim43/Algorhythm/issues/3)
+  * [\[Lv. 1\] 모의고사](https://github.com/cykim43/Algorhythm/issues/6)
 * 정렬
   * [\[Lv. 1\] K번째수](https://github.com/cykim43/Algorhythm/issues/4)
 * 해시
