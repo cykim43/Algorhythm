@@ -13,6 +13,7 @@
   * [\[Lv. 1\] 모의고사](https://github.com/cykim43/Algorhythm/issues/6)
 * 정렬
   * [\[Lv. 1\] K번째수](https://github.com/cykim43/Algorhythm/issues/4)
+  * [\[Lv. 2\] H-Index](https://github.com/cykim43/Algorhythm/issues/9)
 * 해시
   * [\[Lv. 1\] 폰켓몬](https://github.com/cykim43/Algorhythm/issues/5)
 * 탐욕법(Greedy)
