@@ -15,3 +15,5 @@
   * [\[Lv. 1\] K번째수](https://github.com/cykim43/Algorhythm/issues/4)
 * 해시
   * [\[Lv. 1\] 폰켓몬](https://github.com/cykim43/Algorhythm/issues/5)
+* 탐욕법(Greedy)
+  * [\[Lv. 2\] 구명보트](https://github.com/cykim43/Algorhythm/issues/8)
