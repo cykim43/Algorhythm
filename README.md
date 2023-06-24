@@ -8,6 +8,7 @@
   * [\[Lv. 1\] 같은 숫자는 싫어](https://github.com/cykim43/Algorhythm/issues/2)
   * [\[Lv. 2\] 주식가격](https://github.com/cykim43/Algorhythm/issues/1)
   * [\[Lv. 2\] 올바른 괄호](https://github.com/cykim43/Algorhythm/issues/7)
+  * [\[Lv. 2\] 프로세스](https://github.com/cykim43/Algorhythm/issues/10)
 * 완전탐색
   * [\[Lv. 1\] 최소직사각형](https://github.com/cykim43/Algorhythm/issues/3)
   * [\[Lv. 1\] 모의고사](https://github.com/cykim43/Algorhythm/issues/6)
