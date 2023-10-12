@@ -18,6 +18,7 @@
 * 해시
   * [\[Lv. 1\] 폰켓몬](https://github.com/cykim43/Algorhythm/issues/5)
 * 탐욕법(Greedy)
+  * [\[Lv. 1\] 체육복](https://github.com/cykim43/Algorhythm/issues/13)
   * [\[Lv. 2\] 구명보트](https://github.com/cykim43/Algorhythm/issues/8)
 * 깊이/너비 우선 탐색(DFS/BFS)
   * [\[Lv. 2\] 타겟 넘버](https://github.com/cykim43/Algorhythm/issues/11)
