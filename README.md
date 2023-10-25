@@ -23,3 +23,8 @@
 * 깊이/너비 우선 탐색(DFS/BFS)
   * [\[Lv. 2\] 타겟 넘버](https://github.com/cykim43/Algorhythm/issues/11)
   * [\[Lv. 3\] 네트워크](https://github.com/cykim43/Algorhythm/issues/12)
+
+### 백준
+* 누적 합
+  * [\[Silver 1\] 11660 - 구간 합 구하기 5](https://github.com/cykim43/Algorhythm/issues/14)
+
