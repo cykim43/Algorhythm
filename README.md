@@ -12,6 +12,7 @@
 * 완전탐색
   * [\[Lv. 1\] 최소직사각형](https://github.com/cykim43/Algorhythm/issues/3)
   * [\[Lv. 1\] 모의고사](https://github.com/cykim43/Algorhythm/issues/6)
+  * [\[Lv. 2\] 카펫](https://github.com/cykim43/Algorhythm/issues/17)
 * 정렬
   * [\[Lv. 1\] K번째수](https://github.com/cykim43/Algorhythm/issues/4)
   * [\[Lv. 2\] H-Index](https://github.com/cykim43/Algorhythm/issues/9)
