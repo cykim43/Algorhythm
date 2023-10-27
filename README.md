@@ -27,4 +27,6 @@
 ### 백준
 * 누적 합
   * [\[Silver 1\] 11660 - 구간 합 구하기 5](https://github.com/cykim43/Algorhythm/issues/14)
+* 그리디 알고리즘
+  * [\[Silver 4\] 11399 - ATM](https://github.com/cykim43/Algorhythm/issues/15)
 
